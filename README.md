@@ -67,5 +67,5 @@
 
 ## 📫 Connect With Me  
 💼 [LinkedIn](http://www.linkedin.com/in/sripriya-reddy20/)  
-📧 [Email]sripriyaareddy20@gmail.com  
+📧 [Email](sripriyaareddy20@gmail.com)
 🖥 [GitHub](https://github.com/sripriyareddy20)
