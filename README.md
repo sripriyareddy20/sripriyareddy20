@@ -1,12 +1,20 @@
-👋 Hi, I'm Sripriya Reddy
+Hi 👋, I'm Sripriya Reddy
 
-🚀 Data Engineer | Cloud & Big Data Enthusiast | Building Scalable Data Solutions
+🎯 Data Engineer | Cloud & Big Data Enthusiast | Real-Time Analytics Explorer
 
 🌎 Based in Dallas, TX
 📧 Email Me : sripriyaareddy20@gmail.com
 
 💼 LinkedIn : https://www.linkedin.com/in/sripriya-reddy20/
  | 🖥️ GitHub : https://github.com/sripriyareddy20
+
+🔎 About Me
+
+📊 5+ years of experience architecting and optimizing data ecosystems
+⚡ Skilled in ETL/ELT, Data Modeling, Real-Time Streaming & Advanced Analytics
+☁️ Hands-on with AWS, Azure, GCP, and modern data platforms
+🎓 MS in Information Systems & Technologies (University of North Texas)
+✍️ Passionate about sharing knowledge & building data-driven solutions
 
 🔧 Technologies & Tools
 
@@ -27,6 +35,14 @@ Power BI | Tableau | Excel
 
 DevOps & CI/CD
 Docker | Kubernetes (EKS/GKE) | Terraform | Jenkins | GitLab CI/CD | GitHub | Bitbucket
+
+🚀 What I'm Working On
+
+🔭 Designing scalable real-time fraud detection pipelines (Kafka + Spark + AWS)
+👯 Open to collaborating on Data Engineering & Cloud Data projects
+🤝 Looking for opportunities in Data Engineering & Analytics roles
+🌱 Currently learning MLOps, dbt, and Advanced Data Governance
+💬 Ask me about Python, SQL, Spark, Airflow, and Cloud Data Solutions
 
 📈 Experience Snapshot
 
