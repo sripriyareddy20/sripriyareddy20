@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sripriya Reddy  
 
-🎯 Data Engineer | Cloud & Big Data Enthusiast | Real-Time Analytics Explorer  
+## 🎯 Data Engineer | Cloud & Big Data Enthusiast | Real-Time Analytics Explorer  
 
 ---
 
@@ -43,23 +43,23 @@
 
 ## 💼 Experience Snapshot  
 
-*Data Engineer | Charles Schwab (TX, USA)*  
+## *Data Engineer | Charles Schwab (TX, USA)*  
 •⁠  ⁠Built streaming pipelines (Kafka, Kinesis) processing 2.5M+ trade events/day with <2s latency  
 •⁠  ⁠Deployed 14 ETL workflows with AWS Glue & Spark, cutting processing time by 38%  
 •⁠  ⁠Migrated 8TB of market data into AWS Redshift, reducing query times from 12s → 3s  
 •⁠  ⁠Automated 50+ Airflow data quality checks, reducing failures by 92%  
 
-*Data Engineer | Tata Consultancy Services (India)*  
+## *Data Engineer | Tata Consultancy Services (India)*  
 •⁠  ⁠Delivered 20+ pipelines with Talend & NiFi, improving reconciliation efficiency by 65%  
 •⁠  ⁠Designed 5-fact, 18-dimension schema, accelerating Power BI refresh from 25 → 7 mins  
 •⁠  ⁠Reduced Spark job runtimes from 9h → 3.5h via distributed parallel processing  
 
-*Data Analyst | Capgemini (India)*  
+## *Data Analyst | Capgemini (India)*  
 •⁠  ⁠Produced and optimized 45+ SQL reports, KPI variance <0.5%  
 •⁠  ⁠Migrated 120+ Excel reports → Tableau dashboards, saving 25+ hrs/month  
 •⁠  ⁠Designed OLAP cubes for multi-dimensional sales analysis, serving 200+ users  
 
-*Reporting Analyst | Adons Softech (India)*  
+## *Reporting Analyst | Adons Softech (India)*  
 •⁠  ⁠Built 25 Power BI dashboards integrating 5+ sources, improving reporting from monthly → weekly  
 •⁠  ⁠Automated Excel workflows with VBA & SQL, saving 18 hrs/week  
 
