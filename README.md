@@ -2,51 +2,58 @@ Hi 👋, I'm Sripriya Reddy
 
 🎯 Data Engineer | Cloud & Big Data Enthusiast | Real-Time Analytics Explorer
 
-🌎 Based in Dallas, TX
-📧 Email Me : sripriyaareddy20@gmail.com
-
-💼 LinkedIn : https://www.linkedin.com/in/sripriya-reddy20/
- | 🖥️ GitHub : https://github.com/sripriyareddy20
-
 🔎 About Me
 
 📊 5+ years of experience architecting and optimizing data ecosystems
-⚡ Skilled in ETL/ELT, Data Modeling, Real-Time Streaming & Advanced Analytics
+
+⚡ Skilled in ETL/ELT, Real-Time Streaming, and Advanced Analytics
+
 ☁️ Hands-on with AWS, Azure, GCP, and modern data platforms
-🎓 MS in Information Systems & Technologies (University of North Texas)
+
+🎓 Graduated MS in Information Systems & Technologies (University of North Texas)
+
 ✍️ Passionate about sharing knowledge & building data-driven solutions
-
-🔧 Technologies & Tools
-
-Languages & Scripting
-Python | Java | Scala | SQL | JavaScript | Bash | DAX
-
-Big Data & Cloud
-Apache Spark | Kafka | Hive | Hadoop | Flink | AWS (S3, Redshift, Lambda, Glue, EC2, Kinesis) | GCP (BigQuery, Dataflow, Pub/Sub) | Azure
-
-Databases & Warehousing
-MySQL | PostgreSQL | MongoDB | Cassandra | Oracle | Star & Snowflake Schema
-
-ETL & Orchestration
-Apache Airflow | dbt | Informatica | Talend | NiFi | Alteryx
-
-Visualization & Reporting
-Power BI | Tableau | Excel
-
-DevOps & CI/CD
-Docker | Kubernetes (EKS/GKE) | Terraform | Jenkins | GitLab CI/CD | GitHub | Bitbucket
 
 🚀 What I'm Working On
 
-🔭 Designing scalable real-time fraud detection pipelines (Kafka + Spark + AWS)
-👯 Open to collaborating on Data Engineering & Cloud Data projects
-🤝 Looking for opportunities in Data Engineering & Analytics roles
+🔭 Designing real-time fraud detection pipelines (Kafka + Spark + AWS)
+
+🤝 Open to collaborating on Data Engineering & Cloud Analytics projects
+
+👀 Looking for opportunities in Data Engineering & Analytics roles
+
 🌱 Currently learning MLOps, dbt, and Advanced Data Governance
+
 💬 Ask me about Python, SQL, Spark, Airflow, and Cloud Data Solutions
 
-📈 Experience Snapshot
+🛠️ Skills
 
-💡 Data Engineer | Charles Schwab (TX, USA)
+Programming & Scripting: Python, Java, Scala, SQL, JavaScript, Bash
+
+Big Data & Cloud: Spark, Kafka, Hadoop, AWS (Glue, Redshift, S3, Lambda), GCP (BigQuery, Dataflow), Azure
+
+Databases: MySQL, PostgreSQL, MongoDB, Cassandra, Oracle
+
+ETL & Orchestration: Airflow, dbt, Talend, NiFi, Informatica
+
+Visualization & BI: Tableau, Power BI, Excel
+
+DevOps & Tools: Docker, Kubernetes, Terraform, Jenkins, GitHub, GitLab, Bitbucket
+
+🏆 Certifications
+
+AWS Cloud Practitioner
+
+AWS AI Practitioner
+
+Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+
+Databricks Certified: Generative AI Fundamentals
+
+Databricks Fundamentals
+
+💼 Experience Snapshot
+🔹 Data Engineer | Charles Schwab (TX, USA)
 
 Built streaming pipelines (Kafka, Kinesis) processing 2.5M+ trade events/day with <2s latency.
 
@@ -56,41 +63,36 @@ Migrated 8TB of market data into AWS Redshift, reducing query times from 12s →
 
 Automated 50+ Airflow data quality checks, reducing failures by 92%.
 
-💡 Data Engineer | Tata Consultancy Services (India)
+🔹 Data Engineer | Tata Consultancy Services (India)
 
 Delivered 20+ pipelines with Talend & NiFi, improving reconciliation efficiency by 65%.
 
-Designed 5-fact, 18-dimension schema accelerating Power BI refresh from 25 → 7 mins.
+Designed 5-fact, 18-dimension schema, accelerating Power BI refresh from 25 → 7 mins.
 
 Reduced Spark job runtimes from 9h → 3.5h via distributed parallel processing.
 
-💡 Data Analyst | Capgemini (India)
+🔹 Data Analyst | Capgemini (India)
 
-Optimized 45+ SQL reports for telecom/retail clients, variance <0.5%.
+Produced and optimized 45+ SQL reports, KPI variance <0.5%.
 
-Migrated 120 Excel reports → Tableau dashboards, saving 25+ hrs/month.
+Migrated 120+ Excel reports → Tableau dashboards, saving 25+ hrs/month.
 
-Designed OLAP cubes for sales analytics, serving 200+ users with instant drill-downs.
+Designed OLAP cubes for multi-dimensional sales analysis, serving 200+ users.
 
-💡 Reporting Analyst | Adons Softech (India)
+🔹 Reporting Analyst | Adons Softech (India)
 
-Built 25 Power BI dashboards integrating 5+ data sources, improving reporting frequency from monthly → weekly.
+Built 25 Power BI dashboards integrating 5+ sources, improving reporting from monthly → weekly.
 
-Automated Excel workflows with VBA & SQL, reducing manual processing by 18 hrs/week.
+Automated Excel workflows with VBA & SQL, saving 18 hrs/week.
 
-Designed SQL validation scripts for data feeds, cutting manual review by 60%.
+Designed SQL validation scripts reducing manual review by 60%.
 
-Improved KPI accuracy for 1,200+ metrics, reducing discrepancies by 85% across business units.
+📫 Connect With Me
 
+💼 LinkedIn
 
-🏆 Certifications
+📧 sripriyaareddy20@gmail.com
 
-AWS Cloud Practitioner
+🖥️ GitHub
 
-AWS AI Practitioner
-
-Microsoft Fabric Data Engineer (DP-700)
-
-Databricks Generative AI Fundamentals
-
-Databricks Fundamentals
+✨ “Turning raw data into real-time insights that power business decisions.”
