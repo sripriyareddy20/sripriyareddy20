@@ -57,20 +57,6 @@ Build reliable ML systems that deliver measurable business impact.
 
 ---
 
-## 🧠 **TRIPLE IMPACT AT A GLANCE**
-
-```py
-impact = {
-  "finance":  {"forecast_accuracy": "+18%", "portfolio_uplift": "+12%"},
-  "growth":   {"retention": "+15%", "decision_speed": "+20%"},
-  "ops":      {"pipeline_runtime": "-30%", "processing_time": "-40%"}
-}
-print("Status:", "Shipping ML that moves the needle ✅")
-# Data sources: forecasting, portfolio models, A/B tests, Airflow + cloud pipelines
-```
-
----
-
 ## 🛠️ **Technology Mastery**
 
 **Core**: Python • SQL • R • PySpark  
@@ -81,25 +67,6 @@ print("Status:", "Shipping ML that moves the needle ✅")
 **Pipelines & MLOps**: Airflow • Spark • MLflow • Docker • CI/CD  
 **Cloud**: AWS (S3, Lambda, Redshift) • GCP (BigQuery, Vertex AI) • Azure
 
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=sripriyareddy20" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sripriyareddy20&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sripriyareddy20&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sripriyareddy20&theme=flat&column=6" alt="GitHub Trophies" />
-</p>
-
-
----
 
 ## 🗓️ **Experience Timeline**
 
