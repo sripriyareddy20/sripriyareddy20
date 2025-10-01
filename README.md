@@ -42,13 +42,6 @@ print("Status:", "Shipping ML that moves the needle ✅")
 
 ---
 
-## 📈 **Development & GitHub Stats**
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sripriyareddy20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripriyareddy20&layout=compact)
-
----
-
 ## 🗓️ **Experience Timeline**
 
 ### 🔹 **Data Scientist — Charles Schwab (TX, USA)**
