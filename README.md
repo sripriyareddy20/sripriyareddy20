@@ -1,71 +1,108 @@
-# Hi 👋, I'm Sripriya Reddy  
+# Hi 👋, I’m **Sripriya Reddy**
+🎯 **Data Scientist | Machine Learning & AI Enthusiast | Cloud & Big Data Explorer**
 
-## 🎯 Data Engineer | Cloud & Big Data Enthusiast | Real-Time Analytics Explorer  
-
----
-
-## 🔎 About Me  
-📊 5+ years of experience architecting and optimizing data ecosystems  
-⚡ Skilled in ETL/ELT, Real-Time Streaming, and Advanced Analytics  
-☁ Hands-on with AWS, Azure, GCP, and modern data platforms  
-🎓 MS in Information Systems & Technologies (University of North Texas)  
-✍ Passionate about sharing knowledge & building data-driven solutions  
+```
+┌─[sripriya@ds-lab]─[~/about]
+└──╼ $ whoami
+Data Scientist • ML & NLP • Cloud Analytics | Turning data into decisions
+└──╼ $ mission.txt
+Build reliable ML systems that deliver measurable business impact.
+```
 
 ---
 
-## 🚀 What I'm Working On  
-🔭 Designing real-time fraud detection pipelines (Kafka + Spark + AWS)  
-🤝 Open to collaborating on Data Engineering & Cloud Analytics projects  
-👀 Looking for opportunities in Data Engineering & Analytics roles  
-🌱 Currently learning MLOps, dbt, and Advanced Data Governance  
-💬 Ask me about Python, SQL, Spark, Airflow, and Cloud Data Solutions  
+## 🧭 **Quick Links**
+[LinkedIn](http://www.linkedin.com/in/sripriya-reddy20/) • [GitHub](https://github.com/sripriyareddy20) • ✉️ sripriyaareddy20@gmail.com
 
 ---
 
-## 🛠 Skills  
-•⁠  ⁠*Programming & Scripting:* Python, Java, Scala, SQL, JavaScript, Bash  
-•⁠  ⁠*Big Data & Cloud:* Spark, Kafka, Hadoop, AWS (Glue, Redshift, S3, Lambda), GCP (BigQuery, Dataflow), Azure  
-•⁠  ⁠*Databases:* MySQL, PostgreSQL, MongoDB, Cassandra, Oracle  
-•⁠  ⁠*ETL & Orchestration:* Airflow, dbt, Talend, NiFi, Informatica  
-•⁠  ⁠*Visualization & BI:* Tableau, Power BI, Excel  
-•⁠  ⁠*DevOps & Tools:* Docker, Kubernetes, Terraform, Jenkins, GitHub, GitLab, Bitbucket  
+## 🧠 **TRIPLE IMPACT AT A GLANCE**
+
+```py
+impact = {
+  "finance":  {"forecast_accuracy": "+18%", "portfolio_uplift": "+12%"},
+  "growth":   {"retention": "+15%", "decision_speed": "+20%"},
+  "ops":      {"pipeline_runtime": "-30%", "processing_time": "-40%"}
+}
+print("Status:", "Shipping ML that moves the needle ✅")
+# Data sources: forecasting, portfolio models, A/B tests, Airflow + cloud pipelines
+```
 
 ---
 
-## 🏆 Certifications  
-•⁠  ⁠AWS Cloud Practitioner  
-•⁠  ⁠AWS AI Practitioner  
-•⁠  ⁠Microsoft Certified: Fabric Data Engineer Associate (DP-700)  
-•⁠  ⁠Databricks Certified: Generative AI Fundamentals  
-•⁠  ⁠Databricks Fundamentals  
+## 🛠️ **Technology Mastery**
+
+**Core**: Python • SQL • R • PySpark  
+**ML/AI**: scikit-learn • XGBoost/LightGBM • SHAP • Time-Series • A/B Testing  
+**NLP/DL**: Transformers (Hugging Face) • spaCy • TensorFlow • PyTorch  
+**BI & Storytelling**: Tableau • Power BI • Plotly  
+**Data Platforms**: Snowflake • BigQuery • Redshift • Databricks  
+**Pipelines & MLOps**: Airflow • Spark • MLflow • Docker • CI/CD  
+**Cloud**: AWS (S3, Lambda, Redshift) • GCP (BigQuery, Vertex AI) • Azure
 
 ---
 
-## 💼 Experience Snapshot  
+## 📈 **Development & GitHub Stats**
 
-## *Data Engineer | Charles Schwab (TX, USA)*  
-•⁠  ⁠Built streaming pipelines (Kafka, Kinesis) processing 2.5M+ trade events/day with <2s latency  
-•⁠  ⁠Deployed 14 ETL workflows with AWS Glue & Spark, cutting processing time by 38%  
-•⁠  ⁠Migrated 8TB of market data into AWS Redshift, reducing query times from 12s → 3s  
-•⁠  ⁠Automated 50+ Airflow data quality checks, reducing failures by 92%  
-
-## *Data Engineer | Tata Consultancy Services (India)*  
-•⁠  ⁠Delivered 20+ pipelines with Talend & NiFi, improving reconciliation efficiency by 65%  
-•⁠  ⁠Designed 5-fact, 18-dimension schema, accelerating Power BI refresh from 25 → 7 mins  
-•⁠  ⁠Reduced Spark job runtimes from 9h → 3.5h via distributed parallel processing  
-
-## *Data Analyst | Capgemini (India)*  
-•⁠  ⁠Produced and optimized 45+ SQL reports, KPI variance <0.5%  
-•⁠  ⁠Migrated 120+ Excel reports → Tableau dashboards, saving 25+ hrs/month  
-•⁠  ⁠Designed OLAP cubes for multi-dimensional sales analysis, serving 200+ users  
-
-## *Reporting Analyst | Adons Softech (India)*  
-•⁠  ⁠Built 25 Power BI dashboards integrating 5+ sources, improving reporting from monthly → weekly  
-•⁠  ⁠Automated Excel workflows with VBA & SQL, saving 18 hrs/week  
+![GitHub Streak](https://streak-stats.demolab.com?user=sripriyareddy20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sripriyareddy20&layout=compact)
 
 ---
 
-## 📫 Connect With Me  
-💼 [LinkedIn](http://www.linkedin.com/in/sripriya-reddy20/)   
-📧 [Email](sripriyaareddy20@gmail.com)   
-🖥 [GitHub](https://github.com/sripriyareddy20)
+## 🗓️ **Experience Timeline**
+
+### 🔹 **Data Scientist — Charles Schwab (TX, USA)**
+`Dec 2024 – Present`
+- Built **predictive models (XGBoost, LightGBM)** improving portfolio performance **+12%**.  
+- Enhanced **financial forecasting (time-series models)** with **+18%** accuracy.  
+- Automated pipelines with **Airflow + AWS** → **30% faster** processing; shipped **Power BI** exec visuals (**+20%** decision speed).  
+- Ran **A/B tests** and risk analytics, improving **client retention +15%**.
+
+---
+
+### 🔹 **Data Scientist — Tata Consultancy Services (India)**
+`May 2022 – May 2023`
+- Productionized **NLP** (spaCy, Hugging Face) for voice-of-customer → **+22%** satisfaction.  
+- Orchestrated **PySpark + Airflow** pipelines (**−40%** processing time).  
+- Led **inventory forecasting** ML (**+20%** accuracy); migrated analytics to **BigQuery** for scalable insights.
+
+---
+
+### 🔹 **Data Analyst — Capgemini (India)**
+`Jun 2019 – May 2022`
+- Built **Tableau** dashboards (**+20%** ops performance); optimized SQL (**−35%** query time).  
+- Cohort/segmentation insights → **+10%** marketing ROI; Python/SQL data checks **−25%** errors.
+
+---
+
+### 🔹 **Reporting Analyst — Citius Tech (India)**
+`Jan 2019 – Apr 2019`
+- Automated **Excel/SQL** reporting (**−50%** manual time).  
+- Cleaned & transformed healthcare data (**98%** data quality); patient-outcome insights **+15%**.
+
+---
+
+## 🧪 **Signature Projects**
+
+- **Financial Report Anomaly Detector** — CNN + **AWS Textract** + TensorFlow → **99.6%** anomaly detection on scanned compliance docs.  
+- **Real-Time Fraud Detection (NAB)** — **AWS (S3, Lambda, Glue, Redshift)** + Airflow for faster ingestion & real-time queries.  
+- **Supply Chain Optimization (McDonald’s)** — AWS pipelines + **Power BI** for demand forecasting; storage cost optimizations.
+
+---
+
+## 🏅 **Certifications**
+- **AWS Cloud Practitioner**, **AWS AI Practitioner**  
+- **Microsoft Fabric Data Engineer Associate (DP-700)**  
+- **Databricks Generative AI Fundamentals**, **Databricks Fundamentals**
+
+---
+
+## 🔎 **What I’m Exploring**
+MLOps best practices • Generative AI for tabular + text • Causal inference at scale • Robust evaluation beyond accuracy
+
+---
+
+## 🤝 **Let’s Build**
+Open to **Applied ML / Data Science** roles, and collaborating on **NLP, forecasting, and ML systems** that drive real business outcomes.
+
+> _“Transforming raw data into intelligent, actionable insights.”_
