@@ -14,11 +14,6 @@ Build reliable ML systems that deliver measurable business impact.
 ## 🧭 **Quick Links**
 [LinkedIn](http://www.linkedin.com/in/sripriya-reddy20/) • [GitHub](https://github.com/sripriyareddy20) • ✉️ sripriyaareddy20@gmail.com
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sripriyareddy20&label=Profile%20views&color=0e75b6&style=flat" alt="sripriyareddy20" />
-</p>
-
 <p align="left">
   <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
