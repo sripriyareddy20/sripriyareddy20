@@ -552,28 +552,100 @@ _Denton, Texas • Aug 2023 – May 2025_
 
 ## 🌟 **FEATURED REPOSITORIES**
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Realtime Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=sripriyareddy&repo=Realtime_FraudDetection_System&theme=react&bg_color=0D1117&hide_border=true)](https://github.com/sripriyareddy/Realtime_FraudDetection_System)
+### 🔍 [Realtime Fraud Detection System](https://github.com/sripriyareddy/Realtime_FraudDetection_System)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public-success?style=flat-square"/>
+
+**Real-time fraud detection pipeline with 99.6% accuracy**
+
+- CNN-based anomaly detection
+- AWS Textract & Lambda integration
+- Automated compliance reporting
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Databricks Project](https://github-readme-stats.vercel.app/api/pin/?username=sripriyareddy&repo=Databricks-EndToEnd-Project-MyVersion&theme=react&bg_color=0D1117&hide_border=true)](https://github.com/sripriyareddy/Databricks-EndToEnd-Project-MyVersion)
+### 📊 [Databricks End-to-End Project](https://github.com/sripriyareddy/Databricks-EndToEnd-Project-MyVersion)
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Public-success?style=flat-square"/>
+
+**Complete ETL pipeline on Databricks platform**
+
+- Delta Lake architecture
+- Real-time stream processing
+- Power BI integration
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![E-commerce Data Engineering](https://github-readme-stats.vercel.app/api/pin/?username=sripriyareddy&repo=ecommerce_data_engineering&theme=react&bg_color=0D1117&hide_border=true)](https://github.com/sripriyareddy/ecommerce_data_engineering)
+### 🛒 [E-commerce Data Engineering](https://github.com/sripriyareddy/ecommerce_data_engineering)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public-success?style=flat-square"/>
+
+**Scalable e-commerce data pipeline**
+
+- Multi-source data integration
+- Automated ETL workflows
+- Analytics-ready data marts
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![Credit Card Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=sripriyareddy&repo=credit-card-fraud-detection-using-machine-learning&theme=react&bg_color=0D1117&hide_border=true)](https://github.com/sripriyareddy/credit-card-fraud-detection-using-machine-learning)
+### 💳 [Credit Card Fraud Detection](https://github.com/sripriyareddy/credit-card-fraud-detection-using-machine-learning)
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public-success?style=flat-square"/>
+
+**ML-powered fraud detection system**
+
+- Advanced feature engineering
+- Multiple ML algorithms tested
+- Industry best practices
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 [MLOps End-to-End Project](https://github.com/sripriyareddy/mlops-end-to-end-project)
+
+<img src="https://img.shields.io/badge/MLOps-0194E2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public-success?style=flat-square"/>
+
+**Modern MLOps implementation**
+
+- CI/CD for ML models
+- Model monitoring & deployment
+- Web application integration
+
+</td>
+<td width="50%" valign="top">
+
+### 🚕 [Uber Data Engineering](https://github.com/sripriyareddy/uber-data-engineering-mage-project)
+
+<img src="https://img.shields.io/badge/Data_Engineering-4ECDC4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Public-success?style=flat-square"/>
+
+**Portfolio project showcasing capabilities**
+
+- ETL pipeline development
+- Data transformation logic
+- Analytics dashboard
 
 </td>
 </tr>
