@@ -201,7 +201,6 @@ status: "Architecting next-gen data platforms ⚡"
 **🏆 ACHIEVEMENTS:**
 <img src="https://img.shields.io/badge/☁️_AWS_Certified-success?style=for-the-badge&labelColor=2C3E50"/>
 <img src="https://img.shields.io/badge/📊_Fabric_Certified-blue?style=for-the-badge&labelColor=2C3E50"/>
-<img src="https://img.shields.io/badge/⚡_Databricks_Pro-purple?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
@@ -541,15 +540,6 @@ _Denton, Texas • Aug 2023 – May 2025_
 <!-- Activity Graph -->
 <div align="center">
 
-## 📈 **RECENT PROJECT ACTIVITY**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sripriyareddy&custom_title=Development%20Activity%20Timeline&bg_color=0D1117&color=4A90E2&line=50C878&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
-
-</div>
-
-<!-- Repository Highlights -->
-<div align="center">
-
 ## 🌟 **FEATURED REPOSITORIES**
 
 <table width="100%">
@@ -658,23 +648,6 @@ _Denton, Texas • Aug 2023 – May 2025_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50C878&height=120&section=footer&animation=twinkling" />
 
-### 🤝 **LET'S BUILD SCALABLE DATA SOLUTIONS TOGETHER**
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=sripriyareddy&color=4A90E2&style=for-the-badge&label=Profile+Views" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/github/followers/sripriyareddy?style=for-the-badge&color=50C878&labelColor=24292e&label=Followers" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
-</td>
-</tr>
-</table>
-
-<br/>
 
 > **"Data is the new oil, but infrastructure is the refinery."**  
 > _— Data Engineer • Cloud Architect • ML Engineer —_
