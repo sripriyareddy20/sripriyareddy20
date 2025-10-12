@@ -648,9 +648,8 @@ _Denton, Texas • Aug 2023 – May 2025_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:50C878&height=120&section=footer&animation=twinkling" />
 
-
-> **"Data is the new oil, but infrastructure is the refinery."**  
-> _— Data Engineer • Cloud Architect • ML Engineer —_
+**"Data is the new oil, but infrastructure is the refinery."**  
+_— Data Engineer • Cloud Architect • ML Engineer —_
 
 <br/>
 
